@@ -1,10 +1,10 @@
 import axios from 'axios';
 
 import { LOCAL_STORAGE_KEYS } from '../constant';
-import { SERVER_URL } from '../constant/env';
+import { REACT_APP_SERVER_URL } from '../constant/env';
 
 const instance = axios.create({
-  baseURL: SERVER_URL,
+  baseURL: REACT_APP_SERVER_URL,
 });
 
 instance.interceptors.request.use(

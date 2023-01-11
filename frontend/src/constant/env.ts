@@ -1,7 +1,3 @@
-import dotenv from 'dotenv';
+const { REACT_APP_SERVER_URL } = process.env!;
 
-dotenv.config();
-
-const { SERVER_URL } = process.env;
-
-export { SERVER_URL };
+export { REACT_APP_SERVER_URL };

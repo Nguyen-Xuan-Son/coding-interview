@@ -3,7 +3,6 @@ import * as React from 'react';
 import {
   Checkbox,
   FormControlLabel,
-  Link,
   Avatar,
   Button,
   Container,
@@ -77,7 +76,7 @@ export default function SignIn() {
           <Grid container>
             <Grid item>
               <RouterLink to="/register">
-                <Link variant="body2">{"Don't have an account? Sign Up"}</Link>
+                {"Don't have an account? Sign Up"}
               </RouterLink>
             </Grid>
           </Grid>

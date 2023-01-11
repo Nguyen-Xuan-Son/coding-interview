@@ -1,0 +1,68 @@
+/login:
+  post:
+    summary: Login
+    description: Login
+    tags:
+      - Auth
+    requestBody:
+      content:
+        'application/json':
+          schema:
+            properties:
+              email:
+                type: string
+                format: email
+              password:
+                type: string
+            required:
+              - email
+              - password
+            example:
+              email: 'admin@mail.com'
+              password: 'admin'
+      required: true
+    responses:
+      200:
+        $ref: '#/components/responses/200'
+      400:
+        $ref: '#/components/responses/400'
+      401:
+        $ref: '#/components/responses/401'
+      403:
+        $ref: '#/components/responses/403'
+      422:
+        $ref: '#/components/responses/422'
+/signup:
+  post:
+    summary: Signup
+    description: Signup
+    tags:
+      - Auth
+    requestBody:
+      content:
+        'application/json':
+          schema:
+            properties:
+              email:
+                type: string
+                format: email
+              password:
+                type: string
+            required:
+              - email
+              - password
+            example:
+              email: 'user@mail.com'
+              password: 'user'
+      required: true
+    responses:
+      200:
+        $ref: '#/components/responses/200'
+      400:
+        $ref: '#/components/responses/400'
+      401:
+        $ref: '#/components/responses/401'
+      403:
+        $ref: '#/components/responses/403'
+      422:
+        $ref: '#/components/responses/422'

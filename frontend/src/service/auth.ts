@@ -14,7 +14,7 @@ export const login = createAsyncThunk(
     { rejectWithValue }
   ) => {
     try {
-      const response = await axios.post('/auth/login', payload);
+      const response = await axios.post('api/v1/login', payload);
 
       localStorage.setItem(
         LOCAL_STORAGE_KEYS.ACCESS_TOKEN,
@@ -33,12 +33,11 @@ export const register = createAsyncThunk(
     payload: {
       email: string;
       password: string;
-      rePassword: string;
     },
     { rejectWithValue }
   ) => {
     try {
-      const response = await axios.post('/auth/register', payload);
+      const response = await axios.post('api/v1/signup', payload);
 
       localStorage.setItem(
         LOCAL_STORAGE_KEYS.ACCESS_TOKEN,

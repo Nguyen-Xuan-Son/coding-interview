@@ -1,0 +1,530 @@
+2023-01-11 13:01:20:120 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 13:01:20:120 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 13:07:35:735 [35mhttp[39m: [35mGET / 404 139 - 1.446 ms[39m
+[35m[39m
+2023-01-11 13:08:51:851 [35mhttp[39m: [35mGET /docs-v1 404 146 - 0.287 ms[39m
+[35m[39m
+2023-01-11 13:09:22:922 [35mhttp[39m: [35mGET /docs/v1 301 181 - 0.950 ms[39m
+[35m[39m
+2023-01-11 13:09:22:922 [35mhttp[39m: [35mGET /docs/v1/ 200 - - 1.417 ms[39m
+[35m[39m
+2023-01-11 13:09:22:922 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 200 - - 0.830 ms[39m
+[35m[39m
+2023-01-11 13:09:22:922 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 200 - - 13.900 ms[39m
+[35m[39m
+2023-01-11 13:09:22:922 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 200 - - 7.701 ms[39m
+[35m[39m
+2023-01-11 13:09:22:922 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 200 - - 7.545 ms[39m
+[35m[39m
+2023-01-11 13:09:22:922 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css.map 200 - - 1.077 ms[39m
+[35m[39m
+2023-01-11 13:09:22:922 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 200 628 - 1.125 ms[39m
+[35m[39m
+2023-01-11 13:09:23:923 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js.map 200 - - 6.194 ms[39m
+[35m[39m
+2023-01-11 13:09:23:923 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 1.877 ms[39m
+[35m[39m
+2023-01-11 13:09:23:923 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js.map 200 - - 0.563 ms[39m
+[35m[39m
+2023-01-11 13:22:07:227 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 13:22:07:227 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 13:22:13:2213 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 13:22:13:2213 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 13:22:31:2231 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 13:22:31:2231 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 13:53:02:532 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 13:53:02:532 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 13:55:22:5522 [35mhttp[39m: [35mGET /docs/v1/ 304 - - 3.077 ms[39m
+[35m[39m
+2023-01-11 13:55:22:5522 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 0.890 ms[39m
+[35m[39m
+2023-01-11 13:55:22:5522 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 304 - - 3.922 ms[39m
+[35m[39m
+2023-01-11 13:55:22:5522 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 304 - - 4.872 ms[39m
+[35m[39m
+2023-01-11 13:55:22:5522 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 4.910 ms[39m
+[35m[39m
+2023-01-11 13:55:22:5522 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css.map 200 - - 8.647 ms[39m
+[35m[39m
+2023-01-11 13:55:22:5522 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 1.526 ms[39m
+[35m[39m
+2023-01-11 13:55:22:5522 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js.map 200 - - 1.664 ms[39m
+[35m[39m
+2023-01-11 13:55:23:5523 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.432 ms[39m
+[35m[39m
+2023-01-11 13:55:23:5523 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js.map 200 - - 0.955 ms[39m
+[35m[39m
+2023-01-11 14:11:40:1140 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 14:11:40:1140 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/ 304 - - 2.660 ms[39m
+[35m[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 3.251 ms[39m
+[35m[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 2.507 ms[39m
+[35m[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 304 - - 5.796 ms[39m
+[35m[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 200 - - 0.156 ms[39m
+[35m[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css.map 200 - - 3.358 ms[39m
+[35m[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.483 ms[39m
+[35m[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js.map 200 - - 0.667 ms[39m
+[35m[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.272 ms[39m
+[35m[39m
+2023-01-11 14:11:50:1150 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js.map 200 - - 0.952 ms[39m
+[35m[39m
+2023-01-11 14:11:54:1154 [35mhttp[39m: [35mGET /docs/v1/ 304 - - 0.810 ms[39m
+[35m[39m
+2023-01-11 14:11:54:1154 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 304 - - 0.113 ms[39m
+[35m[39m
+2023-01-11 14:11:54:1154 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 1.223 ms[39m
+[35m[39m
+2023-01-11 14:11:54:1154 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 1.278 ms[39m
+[35m[39m
+2023-01-11 14:11:54:1154 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 304 - - 1.336 ms[39m
+[35m[39m
+2023-01-11 14:11:55:1155 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css.map 200 - - 0.894 ms[39m
+[35m[39m
+2023-01-11 14:11:55:1155 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.159 ms[39m
+[35m[39m
+2023-01-11 14:11:55:1155 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js.map 200 - - 1.291 ms[39m
+[35m[39m
+2023-01-11 14:11:55:1155 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js.map 200 - - 0.446 ms[39m
+[35m[39m
+2023-01-11 14:11:55:1155 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.400 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 14:12:00:120 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/ 304 - - 1.802 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 1.032 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 304 - - 1.014 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 6.043 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 200 - - 0.275 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css.map 200 - - 2.037 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.547 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js.map 200 - - 2.203 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 1.162 ms[39m
+[35m[39m
+2023-01-11 14:12:00:120 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js.map 200 - - 0.592 ms[39m
+[35m[39m
+2023-01-11 14:13:32:1332 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 14:13:32:1332 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 14:13:35:1335 [35mhttp[39m: [35mGET /docs/v1/ 304 - - 1.905 ms[39m
+[35m[39m
+2023-01-11 14:13:36:1336 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 1.412 ms[39m
+[35m[39m
+2023-01-11 14:13:36:1336 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 304 - - 1.482 ms[39m
+[35m[39m
+2023-01-11 14:13:36:1336 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 2.848 ms[39m
+[35m[39m
+2023-01-11 14:13:36:1336 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 200 - - 0.517 ms[39m
+[35m[39m
+2023-01-11 14:13:36:1336 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css.map 200 - - 1.128 ms[39m
+[35m[39m
+2023-01-11 14:13:36:1336 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.310 ms[39m
+[35m[39m
+2023-01-11 14:13:36:1336 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js.map 200 - - 0.870 ms[39m
+[35m[39m
+2023-01-11 14:13:36:1336 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.361 ms[39m
+[35m[39m
+2023-01-11 14:13:36:1336 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js.map 200 - - 0.621 ms[39m
+[35m[39m
+2023-01-11 14:14:19:1419 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 14:14:19:1419 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 14:14:19:1419 [35mhttp[39m: [35mGET /docs/v1/ 304 - - 1.869 ms[39m
+[35m[39m
+2023-01-11 14:14:19:1419 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 1.836 ms[39m
+[35m[39m
+2023-01-11 14:14:19:1419 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 304 - - 2.860 ms[39m
+[35m[39m
+2023-01-11 14:14:19:1419 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 4.311 ms[39m
+[35m[39m
+2023-01-11 14:14:19:1419 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 200 - - 0.114 ms[39m
+[35m[39m
+2023-01-11 14:14:20:1420 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.200 ms[39m
+[35m[39m
+2023-01-11 14:14:20:1420 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.222 ms[39m
+[35m[39m
+2023-01-11 14:15:32:1532 [35mhttp[39m: [35mGET /docs/v1/ 304 - - 0.429 ms[39m
+[35m[39m
+2023-01-11 14:15:32:1532 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 304 - - 0.399 ms[39m
+[35m[39m
+2023-01-11 14:15:32:1532 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 304 - - 0.102 ms[39m
+[35m[39m
+2023-01-11 14:15:32:1532 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 1.668 ms[39m
+[35m[39m
+2023-01-11 14:15:32:1532 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 1.600 ms[39m
+[35m[39m
+2023-01-11 14:15:32:1532 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.437 ms[39m
+[35m[39m
+2023-01-11 14:15:32:1532 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.221 ms[39m
+[35m[39m
+2023-01-11 14:15:37:1537 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 14:15:37:1537 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 14:15:37:1537 [35mhttp[39m: [35mGET /docs/v1/ 304 - - 1.805 ms[39m
+[35m[39m
+2023-01-11 14:15:37:1537 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 1.157 ms[39m
+[35m[39m
+2023-01-11 14:15:37:1537 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 304 - - 0.957 ms[39m
+[35m[39m
+2023-01-11 14:15:37:1537 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 2.990 ms[39m
+[35m[39m
+2023-01-11 14:15:37:1537 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 200 - - 0.256 ms[39m
+[35m[39m
+2023-01-11 14:15:37:1537 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.215 ms[39m
+[35m[39m
+2023-01-11 14:15:37:1537 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.557 ms[39m
+[35m[39m
+2023-01-11 14:54:15:5415 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 14:54:15:5415 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:02:44:244 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:02:44:244 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:20:23:2023 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:20:23:2023 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:21:09:219 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:21:09:219 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:21:22:2122 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:21:22:2122 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:21:35:2135 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:21:35:2135 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:27:50:2750 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:27:50:2750 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:28:27:2827 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:28:27:2827 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:28:46:2846 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:28:46:2846 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:29:06:296 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:29:06:296 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:29:54:2954 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:29:54:2954 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 15:30:01:301 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 15:30:01:301 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:03:10:310 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:03:10:310 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:03:14:314 [35mhttp[39m: [35mGET /docs/v1/ 304 - - 1.791 ms[39m
+[35m[39m
+2023-01-11 16:03:14:314 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 304 - - 0.180 ms[39m
+[35m[39m
+2023-01-11 16:03:14:314 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 5.753 ms[39m
+[35m[39m
+2023-01-11 16:03:14:314 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 5.842 ms[39m
+[35m[39m
+2023-01-11 16:03:14:314 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 200 - - 9.783 ms[39m
+[35m[39m
+2023-01-11 16:03:14:314 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.411 ms[39m
+[35m[39m
+2023-01-11 16:03:14:314 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 0.601 ms[39m
+[35m[39m
+2023-01-11 16:03:18:318 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.534 ms[39m
+[35m[39m
+2023-01-11 16:05:26:526 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.604 ms[39m
+[35m[39m
+2023-01-11 16:07:43:743 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:07:43:743 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:08:04:84 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:08:04:84 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:09:09:99 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:09:09:99 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:09:34:934 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.821 ms[39m
+[35m[39m
+2023-01-11 16:09:50:950 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:09:50:950 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:10:39:1039 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:10:39:1039 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:11:10:1110 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:11:10:1110 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:13:34:1334 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:13:34:1334 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:13:52:1352 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:13:52:1352 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:13:57:1357 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:13:57:1357 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:14:01:141 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.751 ms[39m
+[35m[39m
+2023-01-11 16:14:06:146 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:14:06:146 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:14:21:1421 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:14:21:1421 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:14:34:1434 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:14:34:1434 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:14:57:1457 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.725 ms[39m
+[35m[39m
+2023-01-11 16:15:52:1552 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:15:52:1552 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:25:03:253 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:25:03:253 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:25:05:255 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.788 ms[39m
+[35m[39m
+2023-01-11 16:27:50:2750 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:27:50:2750 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:28:17:2817 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:28:17:2817 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:29:02:292 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.707 ms[39m
+[35m[39m
+2023-01-11 16:29:12:2912 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:29:12:2912 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:29:19:2919 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.710 ms[39m
+[35m[39m
+2023-01-11 16:33:01:331 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:33:01:331 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:33:05:335 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.753 ms[39m
+[35m[39m
+2023-01-11 16:37:45:3745 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:37:45:3745 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:37:51:3751 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:37:51:3751 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:38:32:3832 [35mhttp[39m: [35mGET /auth/register 500 - - 1.207 ms[39m
+[35m[39m
+2023-01-11 16:39:15:3915 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.269 ms[39m
+[35m[39m
+2023-01-11 16:39:43:3943 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:39:43:3943 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:39:46:3946 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.743 ms[39m
+[35m[39m
+2023-01-11 16:40:15:4015 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:40:15:4015 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:40:15:4015 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.781 ms[39m
+[35m[39m
+2023-01-11 16:40:36:4036 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:40:36:4036 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:41:20:4120 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:41:20:4120 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:41:24:4124 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.749 ms[39m
+[35m[39m
+2023-01-11 16:41:41:4141 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:41:41:4141 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:41:45:4145 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.742 ms[39m
+[35m[39m
+2023-01-11 16:41:56:4156 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:41:56:4156 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:42:16:4216 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:42:16:4216 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:42:17:4217 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.723 ms[39m
+[35m[39m
+2023-01-11 16:42:40:4240 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:42:40:4240 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:42:46:4246 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.707 ms[39m
+[35m[39m
+2023-01-11 16:43:17:4317 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:43:17:4317 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:43:21:4321 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.707 ms[39m
+[35m[39m
+2023-01-11 16:43:32:4332 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:43:32:4332 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:43:34:4334 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.777 ms[39m
+[35m[39m
+2023-01-11 16:44:49:4449 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:44:49:4449 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:44:51:4451 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 1.437 ms[39m
+[35m[39m
+2023-01-11 16:46:04:464 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:46:04:464 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:46:10:4610 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:46:10:4610 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:46:12:4612 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:46:12:4612 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:46:24:4624 [35mhttp[39m: [35mPOST /api/v1/register 500 - - 0.736 ms[39m
+[35m[39m
+2023-01-11 16:46:39:4639 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:46:39:4639 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:47:30:4730 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:47:30:4730 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:48:32:4832 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:48:32:4832 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:48:34:4834 [35mhttp[39m: [35mPOST /api/v1/register 404 155 - 0.669 ms[39m
+[35m[39m
+2023-01-11 16:49:22:4922 [35mhttp[39m: [35mPOST /api/v1/signup 400 111 - 8.078 ms[39m
+[35m[39m
+2023-01-11 16:49:37:4937 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 1.802 ms[39m
+[35m[39m
+2023-01-11 16:50:07:507 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:50:07:507 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 16:59:57:5957 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 16:59:57:5957 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:00:16:016 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:00:16:016 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:00:44:044 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:00:44:044 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:00:45:045 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.733 ms[39m
+[35m[39m
+2023-01-11 17:05:18:518 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:05:18:518 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:05:19:519 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.909 ms[39m
+[35m[39m
+2023-01-11 17:05:29:529 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:05:29:529 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:05:30:530 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.788 ms[39m
+[35m[39m
+2023-01-11 17:05:40:540 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 2.927 ms[39m
+[35m[39m
+2023-01-11 17:05:42:542 [35mhttp[39m: [35mGET /api/v1/signup 404 152 - 1.646 ms[39m
+[35m[39m
+2023-01-11 17:06:21:621 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:06:21:621 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:06:28:628 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.844 ms[39m
+[35m[39m
+2023-01-11 17:07:06:76 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 2.246 ms[39m
+[35m[39m
+2023-01-11 17:07:31:731 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:07:31:731 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:11:32:1132 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:11:32:1132 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:11:36:1136 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 5.134 ms[39m
+[35m[39m
+2023-01-11 17:12:33:1233 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:12:33:1233 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:12:38:1238 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:12:38:1238 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:12:42:1242 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:12:42:1242 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:13:01:131 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:13:01:131 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:13:05:135 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.747 ms[39m
+[35m[39m
+2023-01-11 17:13:13:1313 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:13:13:1313 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:13:26:1326 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:13:26:1326 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:13:28:1328 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:13:28:1328 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:13:33:1333 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:13:33:1333 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:13:46:1346 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:13:46:1346 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:14:11:1411 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:14:11:1411 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:14:15:1415 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 9.794 ms[39m
+[35m[39m
+2023-01-11 17:14:43:1443 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:14:43:1443 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:14:56:1456 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:14:56:1456 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:15:02:152 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:15:02:152 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:15:10:1510 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:15:10:1510 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:15:16:1516 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 8.476 ms[39m
+[35m[39m
+2023-01-11 17:15:23:1523 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:15:23:1523 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:15:35:1535 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:15:35:1535 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:15:40:1540 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:15:40:1540 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:15:42:1542 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.722 ms[39m
+[35m[39m
+2023-01-11 17:16:04:164 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:16:04:164 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:16:05:165 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.639 ms[39m
+[35m[39m
+2023-01-11 17:16:13:1613 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:16:13:1613 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:16:24:1624 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:16:24:1624 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:16:43:1643 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:16:43:1643 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:16:45:1645 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:16:45:1645 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:18:24:1824 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:18:24:1824 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:18:27:1827 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.857 ms[39m
+[35m[39m
+2023-01-11 17:23:42:2342 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:23:42:2342 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:23:44:2344 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 5.020 ms[39m
+[35m[39m
+2023-01-11 17:24:02:242 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:24:02:242 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:24:12:2412 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:24:12:2412 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:24:21:2421 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:24:21:2421 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:24:33:2433 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:24:33:2433 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:24:41:2441 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:24:41:2441 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:24:54:2454 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:24:54:2454 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:25:06:256 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:25:06:256 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:25:08:258 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.744 ms[39m
+[35m[39m
+2023-01-11 17:25:25:2525 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:25:25:2525 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:25:28:2528 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:25:28:2528 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:25:29:2529 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 5.747 ms[39m
+[35m[39m
+2023-01-11 17:30:42:3042 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 2.086 ms[39m
+[35m[39m
+2023-01-11 17:30:54:3054 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 1.093 ms[39m
+[35m[39m
+2023-01-11 17:39:42:3942 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:39:42:3942 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:39:45:3945 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.595 ms[39m
+[35m[39m
+2023-01-11 17:39:45:3945 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 1.222 ms[39m
+[35m[39m
+2023-01-11 17:40:13:4013 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:40:13:4013 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:40:22:4022 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 4.528 ms[39m
+[35m[39m
+2023-01-11 17:41:10:4110 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:41:10:4110 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:41:10:4110 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 19.247 ms[39m
+[35m[39m
+2023-01-11 17:47:17:4717 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:47:17:4717 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:48:03:483 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 38.309 ms[39m
+[35m[39m
+2023-01-11 17:49:37:4937 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:49:37:4937 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:51:06:516 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 17:51:06:516 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 17:51:12:5112 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 30.676 ms[39m
+[35m[39m
+2023-01-11 21:53:44:5344 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 14.012 ms[39m
+[35m[39m
+2023-01-11 21:54:31:5431 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 21:54:31:5431 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 21:54:46:5446 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 21:54:46:5446 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 21:54:57:5457 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 19.772 ms[39m
+[35m[39m
+2023-01-11 21:57:47:5747 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 21:57:47:5747 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 21:57:49:5749 [35mhttp[39m: [35mPOST /api/v1/signup 500 - - 51.583 ms[39m
+[35m[39m
+2023-01-11 21:59:02:592 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 21:59:02:592 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 21:59:06:596 [35mhttp[39m: [35mPOST /api/v1/signup 200 36 - 42.340 ms[39m
+[35m[39m
+2023-01-11 21:59:25:5925 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 21:59:25:5925 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 21:59:46:5946 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 21:59:46:5946 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 21:59:56:5956 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 21:59:56:5956 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 22:00:39:039 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-11 22:00:39:039 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-11 22:01:19:119 [35mhttp[39m: [35mPOST /api/v1/signup 500 452 - 13.372 ms[39m
+[35m[39m
+2023-01-11 22:01:30:130 [35mhttp[39m: [35mPOST /api/v1/signup 200 36 - 12.468 ms[39m
+[35m[39m
+2023-01-11 22:03:44:344 [35mhttp[39m: [35mPOST /api/v1/login 200 191 - 5.640 ms[39m
+[35m[39m
+2023-01-11 22:07:06:76 [35mhttp[39m: [35mPOST /api/v1/signup 200 36 - 4.486 ms[39m
+[35m[39m
+2023-01-11 22:07:12:712 [35mhttp[39m: [35mPOST /api/v1/login 200 191 - 3.489 ms[39m
+[35m[39m

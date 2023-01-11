@@ -7,21 +7,29 @@ import {
   FormControlLabel,
   Grid,
   Box,
-  Link,
   Typography,
   Container,
 } from '@mui/material';
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import { Link as RouterLink } from 'react-router-dom';
+import { useDispatch } from 'react-redux';
+
+import { register } from '../service/auth';
 
 export default function SignUp() {
-  const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
+  const dispatch = useDispatch();
+
+  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    console.log({
-      email: data.get('email'),
-      password: data.get('password'),
-    });
+
+    const { payload } = await dispatch(
+      register({
+        email: (data.get('email') as string) || '',
+        password: (data.get('password') as string) || '',
+      }) as any
+    );
+    console.log('payload', payload);
   };
 
   return (
@@ -67,10 +75,10 @@ export default function SignUp() {
               <TextField
                 required
                 fullWidth
-                name="re-password"
+                name="rePassword"
                 label="Re Password"
                 type="password"
-                id="re-password"
+                id="rePassword"
                 autoComplete="new-password"
               />
             </Grid>
@@ -92,7 +100,7 @@ export default function SignUp() {
           <Grid container justifyContent="flex-end">
             <Grid item>
               <RouterLink to="/login">
-                <Link variant="body2">Already have an account? Sign in</Link>
+                Already have an account? Sign in
               </RouterLink>
             </Grid>
           </Grid>

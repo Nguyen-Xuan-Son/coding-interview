@@ -1,0 +1,25 @@
+/users/{id}:
+  get:
+    summary: Get user detail
+    description: Get user detail
+    tags:
+      - User
+    security:
+      - bearerAuth: []
+    parameters:
+      - in: path
+        name: id
+        schema:
+          type: number
+        required: true
+    responses:
+      200:
+        $ref: '#/components/responses/200'
+      400:
+        $ref: '#/components/responses/400'
+      401:
+        $ref: '#/components/responses/401'
+      403:
+        $ref: '#/components/responses/403'
+      422:
+        $ref: '#/components/responses/422'
