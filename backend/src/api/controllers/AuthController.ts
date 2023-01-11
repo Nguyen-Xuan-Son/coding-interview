@@ -1,6 +1,7 @@
 import { NextFunction, Request, Response } from 'express';
-import AuthService from '../services/AuthService';
+
 import { LoginType, SignUpType } from '../types/auth';
+import AuthService from '../services/AuthService';
 
 class AuthController {
   async login(req: Request, res: Response, next: NextFunction): Promise<void> {

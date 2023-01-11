@@ -1,6 +1,7 @@
 interface DocumentAttributes {
-  id: number;
+  id?: number;
   hash: string;
+  authorId: number;
   createdAt?: Date;
   updatedAt?: Date;
   deletedAt?: Date;

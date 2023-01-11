@@ -1,4 +1,4 @@
-/users/{id}:
+/users/account:
   get:
     summary: Get user detail
     description: Get user detail
@@ -6,12 +6,6 @@
       - User
     security:
       - bearerAuth: []
-    parameters:
-      - in: path
-        name: id
-        schema:
-          type: number
-        required: true
     responses:
       200:
         $ref: '#/components/responses/200'

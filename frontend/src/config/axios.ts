@@ -13,7 +13,7 @@ instance.interceptors.request.use(
 
     const token = localStorage.getItem(LOCAL_STORAGE_KEYS.ACCESS_TOKEN);
 
-    if (!!token) request.headers['authorization'] = token;
+    if (!!token) request.headers['authorization'] = 'Bearer ' + token;
 
     return request;
   },

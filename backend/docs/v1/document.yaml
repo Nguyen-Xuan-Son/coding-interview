@@ -1,0 +1,61 @@
+/document:
+  put:
+    summary: Put document check exiting detail
+    description: Put document check exiting detail
+    tags:
+      - Document
+    security:
+      - bearerAuth: []
+    requestBody:
+      content:
+        'application/json':
+          schema:
+            properties:
+              hash:
+                type: string
+            required:
+              - hash
+            example:
+              hash: 'cascasc23rcsdcc234232423@34234'
+      required: true
+    responses:
+      200:
+        $ref: '#/components/responses/200'
+      400:
+        $ref: '#/components/responses/400'
+      401:
+        $ref: '#/components/responses/401'
+      403:
+        $ref: '#/components/responses/403'
+      422:
+        $ref: '#/components/responses/422'
+  post:
+    summary: Post document detail
+    description: Post document detail
+    tags:
+      - Document
+    security:
+      - bearerAuth: []
+    requestBody:
+      content:
+        'application/json':
+          schema:
+            properties:
+              hash:
+                type: string
+            required:
+              - hash
+            example:
+              hash: 'cascasc23rcsdcc234232423@34234'
+      required: true
+    responses:
+      200:
+        $ref: '#/components/responses/200'
+      400:
+        $ref: '#/components/responses/400'
+      401:
+        $ref: '#/components/responses/401'
+      403:
+        $ref: '#/components/responses/403'
+      422:
+        $ref: '#/components/responses/422'

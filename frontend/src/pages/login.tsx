@@ -15,6 +15,7 @@ import { Link as RouterLink, useNavigate } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 
 import { login } from '../service/auth';
+import { getAccountInfo } from '../service/account';
 
 export default function SignIn() {
   const dispatch = useDispatch();
@@ -31,6 +32,7 @@ export default function SignIn() {
       }) as any
     );
     navigate('/');
+    await dispatch(getAccountInfo() as any);
   };
 
   return (

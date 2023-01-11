@@ -30,6 +30,8 @@ class UserService implements IUserService {
       throw new Error('User not found');
     }
 
+    user.password = '';
+
     return user;
   }
 }
