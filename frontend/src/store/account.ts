@@ -3,11 +3,13 @@ import { login } from '../service/auth';
 import { getAccountInfo } from '../service/account';
 
 interface IAccount {
+  id: number;
   email: string;
   isLoggedIn: boolean;
 }
 
 const initialState: IAccount = {
+  id: 0,
   email: '',
   isLoggedIn: false,
 };
@@ -18,6 +20,7 @@ export const accountSlice = createSlice({
   reducers: {
     logout: (state) => {
       state.email = '';
+      state.id = 0;
       localStorage.clear();
     },
   },
@@ -26,6 +29,7 @@ export const accountSlice = createSlice({
       state.isLoggedIn = true;
     });
     builder.addCase(getAccountInfo.fulfilled, (state, { payload }) => {
+      state.id = payload?.id;
       state.email = payload?.email;
     });
   },
