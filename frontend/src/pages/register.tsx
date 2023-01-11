@@ -11,25 +11,26 @@ import {
   Container,
 } from '@mui/material';
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
-import { Link as RouterLink } from 'react-router-dom';
+import { Link as RouterLink, useNavigate } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 
 import { register } from '../service/auth';
 
 export default function SignUp() {
   const dispatch = useDispatch();
+  const navigate = useNavigate();
 
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
 
-    const { payload } = await dispatch(
+    await dispatch(
       register({
         email: (data.get('email') as string) || '',
         password: (data.get('password') as string) || '',
       }) as any
     );
-    console.log('payload', payload);
+    navigate('/login');
   };
 
   return (

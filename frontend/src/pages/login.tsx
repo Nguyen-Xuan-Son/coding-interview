@@ -1,5 +1,4 @@
 import * as React from 'react';
-
 import {
   Checkbox,
   FormControlLabel,
@@ -12,16 +11,26 @@ import {
   Grid,
 } from '@mui/material';
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
-import { Link as RouterLink } from 'react-router-dom';
+import { Link as RouterLink, useNavigate } from 'react-router-dom';
+import { useDispatch } from 'react-redux';
+
+import { login } from '../service/auth';
 
 export default function SignIn() {
-  const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
+  const dispatch = useDispatch();
+  const navigate = useNavigate();
+
+  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    console.log({
-      email: data.get('email'),
-      password: data.get('password'),
-    });
+
+    await dispatch(
+      login({
+        email: (data.get('email') as string) || '',
+        password: (data.get('password') as string) || '',
+      }) as any
+    );
+    navigate('/');
   };
 
   return (
