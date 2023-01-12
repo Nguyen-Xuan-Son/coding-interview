@@ -1144,3 +1144,51 @@
 [35m[39m
 2023-01-12 00:34:01:341 [35mhttp[39m: [35mGET /api/v1/users/account 401 12 - 0.146 ms[39m
 [35m[39m
+2023-01-12 09:02:44:244 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-12 09:02:44:244 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-12 09:03:21:321 [35mhttp[39m: [35mGET / 404 139 - 8.177 ms[39m
+[35m[39m
+2023-01-12 09:03:27:327 [35mhttp[39m: [35mGET /api/docs 404 147 - 2.529 ms[39m
+[35m[39m
+2023-01-12 09:03:34:334 [35mhttp[39m: [35mGET /docs/api/ 404 148 - 3.509 ms[39m
+[35m[39m
+2023-01-12 09:03:50:350 [35mhttp[39m: [35mGET /docs/v1/ 200 - - 9.479 ms[39m
+[35m[39m
+2023-01-12 09:03:50:350 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 200 - - 0.747 ms[39m
+[35m[39m
+2023-01-12 09:03:50:350 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 200 - - 10.511 ms[39m
+[35m[39m
+2023-01-12 09:03:50:350 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 200 - - 5.906 ms[39m
+[35m[39m
+2023-01-12 09:03:50:350 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 200 - - 8.747 ms[39m
+[35m[39m
+2023-01-12 09:03:50:350 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 200 628 - 1.173 ms[39m
+[35m[39m
+2023-01-12 09:03:50:350 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 1.913 ms[39m
+[35m[39m
+2023-01-12 09:04:06:46 [35mhttp[39m: [35mPOST /api/v1/signup 200 36 - 34.599 ms[39m
+[35m[39m
+2023-01-12 09:04:10:410 [35mhttp[39m: [35mPOST /api/v1/login 200 191 - 23.032 ms[39m
+[35m[39m
+2023-01-12 09:04:10:410 [35mhttp[39m: [35mGET /api/v1/users/account 200 116 - 4.859 ms[39m
+[35m[39m
+2023-01-12 09:04:20:420 [35mhttp[39m: [35mPUT /api/v1/document 200 75 - 22.070 ms[39m
+[35m[39m
+2023-01-12 09:04:20:420 [35mhttp[39m: [35mPOST /api/v1/document 200 146 - 7.405 ms[39m
+[35m[39m
+2023-01-12 09:04:23:423 [35mhttp[39m: [35mPUT /api/v1/document 200 146 - 6.495 ms[39m
+[35m[39m
+2023-01-12 09:04:29:429 [35mhttp[39m: [35mPUT /api/v1/document 200 75 - 5.600 ms[39m
+[35m[39m
+2023-01-12 09:04:29:429 [35mhttp[39m: [35mPOST /api/v1/document 200 147 - 8.745 ms[39m
+[35m[39m
+2023-01-12 09:04:34:434 [35mhttp[39m: [35mPUT /api/v1/document 200 147 - 4.485 ms[39m
+[35m[39m
+2023-01-12 09:04:46:446 [35mhttp[39m: [35mPOST /api/v1/signup 200 36 - 11.739 ms[39m
+[35m[39m
+2023-01-12 09:04:49:449 [35mhttp[39m: [35mPOST /api/v1/login 200 191 - 14.403 ms[39m
+[35m[39m
+2023-01-12 09:04:50:450 [35mhttp[39m: [35mGET /api/v1/users/account 200 116 - 6.195 ms[39m
+[35m[39m
+2023-01-12 09:04:54:454 [35mhttp[39m: [35mPUT /api/v1/document 200 146 - 6.309 ms[39m
+[35m[39m
