@@ -1192,3 +1192,25 @@
 [35m[39m
 2023-01-12 09:04:54:454 [35mhttp[39m: [35mPUT /api/v1/document 200 146 - 6.309 ms[39m
 [35m[39m
+2023-01-12 09:42:37:4237 [32mdebug[39m: [32mApp my-project with api version v1 is starting[39m
+2023-01-12 09:42:37:4237 [32mdebug[39m: [32mApp is listening on port 3001[39m
+2023-01-12 09:42:49:4249 [35mhttp[39m: [35mPOST /api/v1/login 500 427 - 40.754 ms[39m
+[35m[39m
+2023-01-12 09:42:49:4249 [35mhttp[39m: [35mGET /api/v1/users/account 401 12 - 2.411 ms[39m
+[35m[39m
+2023-01-12 09:42:59:4259 [35mhttp[39m: [35mPOST /api/v1/signup 200 36 - 23.281 ms[39m
+[35m[39m
+2023-01-12 09:43:10:4310 [35mhttp[39m: [35mPOST /api/v1/login 200 193 - 15.760 ms[39m
+[35m[39m
+2023-01-12 09:43:11:4311 [35mhttp[39m: [35mGET /api/v1/users/account 200 104 - 5.082 ms[39m
+[35m[39m
+2023-01-12 09:44:32:4432 [35mhttp[39m: [35mGET /docs/v1/swagger-ui.css 304 - - 8.229 ms[39m
+[35m[39m
+2023-01-12 09:44:32:4432 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-bundle.js 304 - - 6.884 ms[39m
+[35m[39m
+2023-01-12 09:44:32:4432 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-init.js 304 - - 1.268 ms[39m
+[35m[39m
+2023-01-12 09:44:32:4432 [35mhttp[39m: [35mGET /docs/v1/swagger-ui-standalone-preset.js 304 - - 3.955 ms[39m
+[35m[39m
+2023-01-12 09:44:32:4432 [35mhttp[39m: [35mGET /docs/v1/favicon-32x32.png 304 - - 1.657 ms[39m
+[35m[39m
